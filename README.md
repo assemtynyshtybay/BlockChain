@@ -1,2 +1,4 @@
 # BlockChain
-gallery
+npm i
+npm runserver
+npm start
